@@ -1,0 +1,9 @@
+.yarn
+.next
+.husky
+.jest
+dist
+.next
+node_modules
+coverage
+__snapshots__
